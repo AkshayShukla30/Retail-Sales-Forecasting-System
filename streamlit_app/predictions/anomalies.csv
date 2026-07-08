@@ -1,0 +1,12 @@
+Order Date,sales,rolling_mean,rolling_std,iso_flag,is_anomaly_iso,z_score,is_anomaly_zscore,is_anomaly_both,month_name,likely_business_reason
+2015-01-04,304.508,304.508,0.0,-1,True,,False,False,January,"Below-trend dip - possible stockout, logistics disruption, or reporting gap"
+2015-03-22,37703.665,12040.9095,17129.486138228636,-1,True,1.4981626006122442,False,False,March,"Above-trend spike - possible bulk order, promotion, or data entry duplication"
+2015-03-29,3998.777,12468.193,16823.756002701914,-1,True,-0.5034200447652595,False,False,March,"Below-trend dip - possible stockout, logistics disruption, or reporting gap"
+2015-04-05,10363.902,14051.486499999999,16045.001816487205,-1,True,-0.2298276149904068,False,False,April,"Below-trend dip - possible stockout, logistics disruption, or reporting gap"
+2015-04-12,8418.293,15121.15925,15288.741667993967,-1,True,-0.4384184385842581,False,False,April,"Below-trend dip - possible stockout, logistics disruption, or reporting gap"
+2015-09-13,29959.137,10865.594375,12732.296659606787,-1,True,1.4996149662122047,False,False,September,"Above-trend spike - possible bulk order, promotion, or data entry duplication"
+2016-01-24,358.522,4983.196149999999,7299.506111271663,-1,True,-0.6335598709697257,False,False,January,"Below-trend dip - possible stockout, logistics disruption, or reporting gap"
+2017-12-17,25449.8,23775.820000000003,3609.7022780141992,-1,True,0.46374461688870927,False,False,December,Likely holiday/Black Friday/year-end promotional spike
+2018-11-18,30572.447,25285.183500000003,5282.549382151507,-1,True,1.000892394468553,False,False,November,Likely holiday/Black Friday/year-end promotional spike
+2018-12-02,35998.9,27199.9165,7422.552004977346,-1,True,1.1854391177184964,False,False,December,Likely holiday/Black Friday/year-end promotional spike
+2018-12-09,21537.240999999998,27580.339250000005,6955.926028380102,-1,True,-0.8687697691643401,False,False,December,Likely holiday/Black Friday/year-end promotional spike

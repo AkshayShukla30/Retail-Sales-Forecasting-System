@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-07-07T10:21:47.818807",
+  "best_model": "Prophet_stand_in_TrendSeasonal",
+  "model_files": [],
+  "processed_files": [
+    "cleaned_transactions.csv",
+    "subcategory_segments.csv",
+    "weekly_sales.csv",
+    "weekly_sales_with_anomaly_flags.csv",
+    "monthly_sales.csv"
+  ],
+  "prediction_files": [
+    "model_comparison.csv",
+    "segment_forecast_metrics.csv",
+    "segment_forecasts.csv",
+    "overall_forecast.csv",
+    "anomalies.csv"
+  ],
+  "note": "Artifacts generated with lightweight stand-in models. Re-run the real notebook with statsmodels/prophet/xgboost installed for production results."
+}

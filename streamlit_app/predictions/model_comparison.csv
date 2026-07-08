@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE,R2,Forecast_Month_1,Forecast_Month_2,Forecast_Month_3
+SARIMA_stand_in_SeasonalNaive,26947.61,31659.56,28.7,-2.122,40682.72,77407.85,79483.26
+Prophet_stand_in_TrendSeasonal,19430.97,20204.42,21.04,-0.272,56138.39,92863.52,94938.93
+XGBoost_stand_in_GradientBoosting,47252.11,50534.93,49.23,-6.955,45553.45,45553.45,45553.45

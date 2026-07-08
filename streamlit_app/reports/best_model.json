@@ -1,0 +1,11 @@
+{
+  "best_model": "Prophet_stand_in_TrendSeasonal",
+  "selected_on": "MAPE",
+  "metrics": {
+    "MAE": 19430.97,
+    "RMSE": 20204.42,
+    "MAPE": 21.04,
+    "R2": -0.272
+  },
+  "note": "Generated with lightweight stand-in models (no internet access to install statsmodels/prophet/xgboost in the analysis sandbox). Re-run the real notebook with those libraries installed for production-grade SARIMA/Prophet/XGBoost results."
+}
