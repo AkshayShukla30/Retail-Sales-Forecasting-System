@@ -5,7 +5,7 @@ An end-to-end Retail Analytics project that predicts future product demand, dete
 The project combines statistical forecasting, machine learning, anomaly detection, clustering, and business analytics into a production-style workflow.
 ## 🌐 Live Demo
 
-**Streamlit App:** https://your-app-name.streamlit.app
+**Streamlit App:** https://retail-sales-forecasting-system.streamlit.app/
 
 ---
 ---
